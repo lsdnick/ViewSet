@@ -1,13 +1,6 @@
-﻿// ViewSet 0.4
+﻿// ViewSet 0.5
 // Lamma Studio Design
-// 14-4-2021
-
-//Changelog
-// 0.1 Initial release
-// 0.2 added auto checkOut function
-// 0.3 remove old diagnostics replace with generics
-// 0.4 check for no windows and get more specific in check
-// 0.5 prefs added and kept
+// 17-5-2021
 
 #targetengine "session";
 setPrefs();
